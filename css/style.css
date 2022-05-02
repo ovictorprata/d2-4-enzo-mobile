@@ -1,4 +1,4 @@
-body {
+/* body {
   margin-bottom: 0px;
 }
 
@@ -9,7 +9,7 @@ body {
   font-size: 30px;
   font-weight: 900;
   color: #293651;
-  /*text-align: center;*/
+  text-align: center;
 }
 
 .textoverde {
@@ -68,6 +68,8 @@ button {
 }
 
 /*INICIO BARRAS DA PÁGINA*/
+
+/*
 .linhaverde {
   display: inline-block;
   border: 1.5px solid #00a78e;
@@ -102,7 +104,7 @@ button {
   height: 9px;
 }
 .preenchidoazul {
-  padding: 0.01em 16px; /*posição do 25%*/
+
   color: #fff !important;
   background-color: #00a78e !important;
   border-radius: 16px 0 0 16px;
@@ -165,7 +167,7 @@ button {
 }
 
 .porcentagem {
-  /* border-radius:200px; */
+
   color: #fff !important;
   background: color #2196f3;
   width: 50%;
@@ -236,4 +238,12 @@ button {
 
 .espaco-padding {
   padding: 2%;
+} */
+
+.white-container {
+  background-color: white;
+}
+
+.gray-container {
+  background-color: gray;
 }
